@@ -1,0 +1,9 @@
+D:\УРОКИ\3 курс\2 семестр\Обчислювальна геометрія та комп’ютерна графіка\Smallest-circle problem\Smallest-circle problem\bin\Debug\Smallest-circle problem.exe.config
+D:\УРОКИ\3 курс\2 семестр\Обчислювальна геометрія та комп’ютерна графіка\Smallest-circle problem\Smallest-circle problem\bin\Debug\Smallest-circle problem.exe
+D:\УРОКИ\3 курс\2 семестр\Обчислювальна геометрія та комп’ютерна графіка\Smallest-circle problem\Smallest-circle problem\bin\Debug\Smallest-circle problem.pdb
+D:\УРОКИ\3 курс\2 семестр\Обчислювальна геометрія та комп’ютерна графіка\Smallest-circle problem\Smallest-circle problem\obj\Debug\Smallest-circle problem.csprojResolveAssemblyReference.cache
+D:\УРОКИ\3 курс\2 семестр\Обчислювальна геометрія та комп’ютерна графіка\Smallest-circle problem\Smallest-circle problem\obj\Debug\Smallest_circle_problem.Form1.resources
+D:\УРОКИ\3 курс\2 семестр\Обчислювальна геометрія та комп’ютерна графіка\Smallest-circle problem\Smallest-circle problem\obj\Debug\Smallest_circle_problem.Properties.Resources.resources
+D:\УРОКИ\3 курс\2 семестр\Обчислювальна геометрія та комп’ютерна графіка\Smallest-circle problem\Smallest-circle problem\obj\Debug\Smallest-circle problem.csproj.GenerateResource.Cache
+D:\УРОКИ\3 курс\2 семестр\Обчислювальна геометрія та комп’ютерна графіка\Smallest-circle problem\Smallest-circle problem\obj\Debug\Smallest-circle problem.exe
+D:\УРОКИ\3 курс\2 семестр\Обчислювальна геометрія та комп’ютерна графіка\Smallest-circle problem\Smallest-circle problem\obj\Debug\Smallest-circle problem.pdb
