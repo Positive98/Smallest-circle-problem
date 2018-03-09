@@ -78,19 +78,9 @@ namespace Smallest_circle_problem
             Graphics myGraphics = Graphics.FromImage(bmp);
             myGraphics.Clear(Color.White);
 
-            //convexHull = SetConvexHull();
-            //GetCircle();
-
             if (points.Count > 1)
             {
-                /*
-                if (points.Count == 3)
-                {
-                    center = GetCentetByThreePoint(points[0], points[1], points[2]);
-                    radius = (int)Math.Sqrt(Dist(center, points[0]));
-                }
-                */
-                GetCircle();
+              GetCircle();
                
                 Pen myCirclePen = new Pen(Color.Red, POINT_RADIUS);
                 Point a = new Point(center.X - radius, center.Y - radius);
@@ -142,8 +132,6 @@ namespace Smallest_circle_problem
                     if (Dist(cen, newP) <= Dist(cen, firstP))
                     {
                         center = cen;
-                       // if (center.X < 10)
-                           // MessageBox.Show("dsdsd");
                         radius = (int)(Math.Sqrt((double)rad) + 0.5);
                         break;
                     }
@@ -184,6 +172,9 @@ namespace Smallest_circle_problem
                         if (Dist(secondP, centBeetFAndN) <= Dist(firstP, centBeetFAndN))
                         {
                             opP = 2;
+                            cen = centBeetFAndN;
+                            newRad = Dist(cen, firstP);
+
                         }
                         else
                         {
@@ -192,9 +183,6 @@ namespace Smallest_circle_problem
                             if (secondP != thirdP)
                                 cen = GetCentetByThreePoint(firstP, secondP, thirdP);
                             else cen = GetCenter(firstP, secondP);
-                            if (cen.X < 10)
-                                MessageBox.Show("11111");
-
                             newRad = Dist(cen, firstP);
                         }
                     }
@@ -206,11 +194,6 @@ namespace Smallest_circle_problem
                     }
                     rad = newRad;
                 }
-                
-                //center = GetCenter(firstP, secondP);
-                //radius = (int)Math.Sqrt(Dist(center, firstP));
-
-
             }
         }
 
