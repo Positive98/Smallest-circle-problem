@@ -19,6 +19,7 @@ namespace Smallest_circle_problem
         private int radius;
         private Point center = new Point();
 
+
         public Form1()
         {
             InitializeComponent();
@@ -346,6 +347,42 @@ namespace Smallest_circle_problem
                 movePoint.X = -1;
                 movePoint.Y = -1;
             }
+        }
+
+        private void closeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void toolStripMenuItem4_Click(object sender, EventArgs e)
+        {
+            points.Clear();
+            Draw();
+        }
+
+        private void toolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            //sdsdsdsds
+            Random r = new Random();
+            int count = r.Next(100, 1000);
+            MessageBox.Show($"Proram has created {count} points", "Random filling");
+            points.Clear();
+            for (int i = 0; i < count; i++)
+            {
+                Point p = new Point(r.Next(40, pictureBox1.Width - 40), r.Next(50, pictureBox1.Height - 60));
+                points.Add(p);
+            }
+            Draw();
+        }
+
+        private void aboutToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Some text", "About");
+        }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Some text", "Help");
         }
     }
 }
