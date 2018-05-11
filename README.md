@@ -1,5 +1,7 @@
 # Smallest-circle-problem
-This is a program that solve the smallest circle problem with visualization on form.
+This is a program that solve the **smallest circle problem** with *visualization* on form.
+
+>**The smallest-circle problem** or **minimum covering circle problem** *is a mathematical problem of computing the smallest circle that contains all of a given set of points in the Euclidean plane.*
 
 ![image_2018-05-11_22-28-45](https://user-images.githubusercontent.com/24542102/39943384-56ad98fe-556b-11e8-9fdb-f0c6ca9c14a7.png)
 ![image_2018-05-11_22-29-11](https://user-images.githubusercontent.com/24542102/39943385-56cc91f0-556b-11e8-8d59-95ac70acb99e.png)
