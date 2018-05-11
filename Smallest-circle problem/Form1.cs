@@ -362,7 +362,6 @@ namespace Smallest_circle_problem
 
         private void toolStripMenuItem3_Click(object sender, EventArgs e)
         {
-            //sdsdsdsds
             Random r = new Random();
             int count = r.Next(100, 1000);
             MessageBox.Show($"Proram has created {count} points", "Random filling");
@@ -377,12 +376,16 @@ namespace Smallest_circle_problem
 
         private void aboutToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Some text", "About");
+            MessageBox.Show("This program solve the smallest circle problem", "About");
         }
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Some text", "Help");
+            MessageBox.Show("Click left button of mouse for add point.\n" +
+							"Keep pressed left button of mouse on point for moving it.\n" +
+							"Click right button of mouse on point for delete it.\n" +
+							"You can also random fill the form with points all cleen form.\n" +
+							"Watch in live time how building the circle, that is the smallest circle that include all points of set.", "Help");
         }
     }
 }

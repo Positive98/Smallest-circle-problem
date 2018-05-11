@@ -7,3 +7,13 @@ D:\УРОКИ\3 курс\2 семестр\Обчислювальна геоме�
 D:\УРОКИ\3 курс\2 семестр\Обчислювальна геометрія та комп’ютерна графіка\Smallest-circle problem\Smallest-circle problem\obj\Debug\Smallest-circle problem.csproj.GenerateResource.Cache
 D:\УРОКИ\3 курс\2 семестр\Обчислювальна геометрія та комп’ютерна графіка\Smallest-circle problem\Smallest-circle problem\obj\Debug\Smallest-circle problem.exe
 D:\УРОКИ\3 курс\2 семестр\Обчислювальна геометрія та комп’ютерна графіка\Smallest-circle problem\Smallest-circle problem\obj\Debug\Smallest-circle problem.pdb
+C:\Users\Mykola kotsabiuk\Source\Repos\Smallest-circle-problem\Smallest-circle problem\bin\Debug\Smallest-circle problem.exe.config
+C:\Users\Mykola kotsabiuk\Source\Repos\Smallest-circle-problem\Smallest-circle problem\bin\Debug\Smallest-circle problem.exe
+C:\Users\Mykola kotsabiuk\Source\Repos\Smallest-circle-problem\Smallest-circle problem\bin\Debug\Smallest-circle problem.pdb
+C:\Users\Mykola kotsabiuk\Source\Repos\Smallest-circle-problem\Smallest-circle problem\obj\Debug\Smallest-circle problem.csprojResolveAssemblyReference.cache
+C:\Users\Mykola kotsabiuk\Source\Repos\Smallest-circle-problem\Smallest-circle problem\obj\Debug\Smallest_circle_problem.Form1.resources
+C:\Users\Mykola kotsabiuk\Source\Repos\Smallest-circle-problem\Smallest-circle problem\obj\Debug\Smallest_circle_problem.Properties.Resources.resources
+C:\Users\Mykola kotsabiuk\Source\Repos\Smallest-circle-problem\Smallest-circle problem\obj\Debug\Smallest-circle problem.csproj.GenerateResource.cache
+C:\Users\Mykola kotsabiuk\Source\Repos\Smallest-circle-problem\Smallest-circle problem\obj\Debug\Smallest-circle problem.csproj.CoreCompileInputs.cache
+C:\Users\Mykola kotsabiuk\Source\Repos\Smallest-circle-problem\Smallest-circle problem\obj\Debug\Smallest-circle problem.exe
+C:\Users\Mykola kotsabiuk\Source\Repos\Smallest-circle-problem\Smallest-circle problem\obj\Debug\Smallest-circle problem.pdb
