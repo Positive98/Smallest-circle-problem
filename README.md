@@ -1,6 +1,10 @@
 # Smallest-circle-problem
 This is a program that solve the smallest circle problem with visualization on form.
 
+![image_2018-05-11_22-28-45](https://user-images.githubusercontent.com/24542102/39943384-56ad98fe-556b-11e8-9fdb-f0c6ca9c14a7.png)
+![image_2018-05-11_22-29-11](https://user-images.githubusercontent.com/24542102/39943385-56cc91f0-556b-11e8-8d59-95ac70acb99e.png)
+![image_2018-05-11_22-29-29](https://user-images.githubusercontent.com/24542102/39943386-56ecd1cc-556b-11e8-86aa-a65f0b399a8b.png)
+
 ## Installation
 For installation juct clone this repo and run it.
 
